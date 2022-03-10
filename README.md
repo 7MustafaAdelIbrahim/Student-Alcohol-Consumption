@@ -13,10 +13,10 @@ Attributes for both student-mat.csv (Math course) and student-por.csv (Portugues
 
 
 
-| Column        | Contains      |  | Column        | Contains      | Column     | Contains     |
-| ------------- | ------------- |  | ------------- | ------------- | ---------- | ------------ |
-| John          | Test1         |  | NewYork       | John          | Test1      | Test1        |
-| Bob           | Test2         |  | Toronto       | Bob           | Test2      | 
+| Column        | Contains      | Column        | Contains      | Column     | Contains     |
+| ------------- | ------------- | ------------- | ------------- | ---------- | ------------ |
+| school        | student's school (binary: 'GP' - Gabriel Pereira or 'MS' - Mousinho da Silveira)         | NewYork       | John          | Test1      | Test1        |
+| sex           | student's sex (binary: 'F' - female or 'M' - male)         | Toronto       | Bob           | Test2      | 
 
 
 
